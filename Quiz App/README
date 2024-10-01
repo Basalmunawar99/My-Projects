@@ -1,0 +1,19 @@
+# Quiz Game
+
+## Description
+Welcome to the Quiz Game! This interactive web application challenges players to answer a series of trivia questions across various topics. The user selects answers by clicking radio buttons and submits their responses to see their score. This project is designed to be both educational and entertaining.
+
+## Features
+- Engaging trivia questions.
+- Immediate feedback on results.
+- Simple, user-friendly interface.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Clone the repository.
+2. Open `index.html` in a web browser.
+3. Enjoy the game!
